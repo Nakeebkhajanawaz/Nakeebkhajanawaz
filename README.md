@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: facebook,instagram,lin
 - ⚡ Fun fact: listening music
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=khajanawaz&&show_icons=true&title_color=ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=khajanawaz&&show_icons=true&title_color=ffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 

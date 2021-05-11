@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-### Languages and Tools:
+<h2>Languages and Tools:</h2>
 
 <p align="left">
  <a href="https://www.docker.com" target="_blank"> <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" width="40" height="40"/> </a>
